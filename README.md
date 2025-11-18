@@ -44,7 +44,7 @@ A modern, open-source status and monitoring platform for modern infrastructures.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-org/aether-status.git
+git clone https://github.com/skygenesisenterprise/aether-status.git
 cd aether-status
 ```
 
